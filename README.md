@@ -17,7 +17,7 @@ Sou Everton Camargo de Lima, tenho 27 anos e sou graduado em Análise e Desenvol
 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## Contato
+## 📞Contato
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everton-de-lima-127ba9276/)
 
 
